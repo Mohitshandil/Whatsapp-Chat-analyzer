@@ -1,0 +1,7 @@
+Streamlit
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+tkinter
